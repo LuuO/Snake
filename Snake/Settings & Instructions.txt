@@ -1,0 +1,18 @@
+Settings & Instructions
+
+LENGTH
+SPEED(1-30)
+MAPSIZE(11-)
+PIXELSIZE
+
+Enter: Start game/ Save settings & Continue
+W/S/A/D: Control the Snake
+P/F1/Esc/Backspace: Pause & Open setting
+W/S/A/D/Tab/Backspace: Control focus
+P/C/Esc/Backspace: Continue without saving
+Q: Exit Game
+
+Snake v1.0
+Programmed by LuuO
+Colored by LuuO
+
